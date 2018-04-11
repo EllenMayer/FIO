@@ -1,0 +1,151 @@
+body {
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+}
+
+header {
+	background-color: #3e7dfd; 
+	color: #ffffff;
+	padding-top: 59px;
+	padding-bottom: 22px;
+}
+
+.header-pretitle{
+	margin-top: 102px;
+}
+
+.header-title{
+	font-size: 48px;
+	font-weight: 700;
+	line-height: 36.81px;
+	margin-top: 21px;
+}
+
+.header-subtitle {
+	margin-top: 20px;
+}
+
+.header-button{
+	box-shadow: 10px 17px 34px 6px rgba(18,61,145,0.83);
+	border-radius: 50px;
+	background-color:#ffffff;
+	font-size: 18px;
+	font-weight: 700;
+	padding: 17px 25px;
+	margin-top: 33px;
+}
+
+.section {
+	border-width: 3px;
+	border-color:  #ffffff;
+	border-style: solid;
+	background-color:  #ffffff;
+	width: 1039px;
+	height: 476px;
+	}
+
+.text {
+color:  #072b6f;
+font-weight: 700;
+text-align: center;
+}
+
+.work {
+color:  #7bb9ff;
+font-size: 14px;/
+font-weight: 400;
+text-align: center;
+}
+
+.gass {
+background-color:  #1157db;
+width: 457px;
+height: 200px;
+}
+
+.text-gass {
+color:  #072b6f;
+font-size: 17px;
+font-weight: 700;
+text-align: left;
+}
+
+.text-gass-p {
+color:  #8f8f8f;
+font-size: 13px;
+font-weight: 400;
+text-align: left;
+}
+ .ag {
+ 	font-family: Roboto;
+color:  #072b6f;
+font-size: 14px;/* Приближение из-за подстановки шрифтов */
+font-weight: 400;
+text-decoration: underline;
+text-align: left;
+ }
+
+ .ff {
+ 	background-color:  #3a7dfd;
+width: 1366px;
+height: 248px;
+ }
+
+.fio {
+color:  #fefefe;
+font-size: 24px;
+font-weight: 700;
+line-height: 40px;
+text-align: left;
+}
+
+.tt {
+color:  #deedfe;
+font-weight: 400;
+line-height: 40px;
+text-align: left;
+}
+
+.t-t {
+	font-family: Roboto;
+color:  #deedfe;
+font-size: 17.91px; 
+font-weight: 400;
+line-height: 40px;
+text-align: center;
+transform: scaleX(1.0048);
+}
+
+.imgg {
+text-align: center;
+width: 40px;
+height: 40px;
+margin: 13px;
+}
+
+.ttt {
+	color:  #deedfe;
+font-size: 17.91px;
+font-weight: 400;
+line-height: 40px;
+text-align: left;
+transform: scaleX(1.007);
+}
+
+
+.ll {
+	border-radius: 50px;
+border-width: 1px;
+border-color:  #ffffff;
+border-style: solid;
+width: 163px;
+height: 46px;
+color:  #deedfe;
+font-size: 17.91px;
+font-weight: 400;
+line-height: 40px;
+text-align: left;
+transform: scaleX(1.007);
+padding: 20px;
+}
